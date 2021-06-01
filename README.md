@@ -21,7 +21,6 @@ In this repo I will try to save all the useful links to different resources
 * https://elrond.com/
 * https://eos.io/
 * https://ethereum.org/en/
-* https://hedera.com/
 * https://www.hyperledger.org/
 * https://neo.org/
 * https://ont.io/
@@ -30,6 +29,9 @@ In this repo I will try to save all the useful links to different resources
 ## Alternatives
 
 * https://www.iota.org/
+* https://hedera.com/
+* https://obyte.org/
+* https://nano.org/
 
 # Storage
 
