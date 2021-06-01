@@ -27,6 +27,10 @@ In this repo I will try to save all the useful links to different resources
 * https://ont.io/
 * https://www.stellar.org/
 
+## Alternatives
+
+* https://www.iota.org/
+
 # Storage
 
 * https://github.com/ethersphere/swarm
