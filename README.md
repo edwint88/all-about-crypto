@@ -19,9 +19,12 @@ In this repo I will try to save all the useful links to different resources
 * https://cardano.org/
 * https://www.corda.net/
 * https://elrond.com/
+* https://eos.io/
 * https://ethereum.org/en/
 * https://hedera.com/
 * https://www.hyperledger.org/
+* https://neo.org/
+* https://ont.io/
 * https://www.stellar.org/
 
 # Storage
