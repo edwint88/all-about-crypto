@@ -24,7 +24,9 @@ In this repo I will try to save all the useful links to different resources
 * https://www.hyperledger.org/
 * https://neo.org/
 * https://ont.io/
+* https://www.peercoin.net/
 * https://www.stellar.org/
+* https://tendermint.com/sdk/
 
 ## Alternatives
 
