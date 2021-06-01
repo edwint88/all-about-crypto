@@ -23,4 +23,7 @@ In this repo I will try to save all the useful links to different resources
 * https://filecoin.io/
 * https://medium.com/@ipfs
 
+# Apps
 
+## Computing power
+ * https://www.golem.network/ 
