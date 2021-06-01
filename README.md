@@ -8,7 +8,7 @@ In this repo I will try to save all the useful links to different resources
 * https://bitcoin.org/bitcoin.pdf
 * https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf
 
-# DAO
+# About DAO
 
 * https://ethereum.org/en/dao/
 * https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k
@@ -36,3 +36,6 @@ In this repo I will try to save all the useful links to different resources
 
 ## Computing power
  * https://www.golem.network/ 
+
+## Get Involved
+ * https://gitcoin.co/
