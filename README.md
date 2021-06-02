@@ -25,6 +25,7 @@ In this repo I will try to save all the useful links to different resources
 * https://neo.org/
 * https://ont.io/
 * https://www.peercoin.net/
+* https://polkadot.network/
 * https://www.stellar.org/
 * https://tendermint.com/sdk/
 
@@ -34,6 +35,12 @@ In this repo I will try to save all the useful links to different resources
 * https://hedera.com/
 * https://obyte.org/
 * https://nano.org/
+
+## Sidechains
+
+* https://elementsproject.org/
+* https://blockstream.com/liquid/
+* https://www.rsk.co/
 
 # Storage
 
